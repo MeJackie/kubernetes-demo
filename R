@@ -1,1 +1,0 @@
-[Docker 和 Kubernetes：给程序员的快速指南](https://zhuanlan.zhihu.com/p/39937913)
